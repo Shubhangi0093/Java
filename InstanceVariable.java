@@ -25,9 +25,9 @@ public class InstanceVariable {
         System.out.println(obj1.c);
         System.out.println(obj1.d);
         System.out.println(obj2.d);
-        //Instance variable without initialization value will give default output as 0
+        //Instance variable without initialization value will give default output as 0 for integer input
         System.out.println(obj1.e);
-      //Instance variable without initialization value will give default output as null
+      //Instance variable without initialization value will give default output as null for String input
         System.out.println(obj1.g);
        
         
